@@ -329,7 +329,7 @@ local v16 = {
         Title = "Cày"
     }),
     Sea = v15:AddTab({
-        Title = "Sự Kiện"
+        Title = "Sự Kiện Biển"
     }),
     ITM = v15:AddTab({
         Title = "Vật Phẩm"
